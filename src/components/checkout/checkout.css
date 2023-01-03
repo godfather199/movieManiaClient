@@ -1,0 +1,48 @@
+.checkoutContainer {
+    /* border: 3px solid red; */
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightgreen;
+    
+}
+
+.checkoutWrapper {
+    margin-bottom: 30px;
+    background-color: lightgoldenrodyellow;
+    padding: 15px;
+    width: 25%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 12px;
+    box-shadow: 0px 0px 25px -6px black;
+}
+
+.checkoutTitle {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+.checkoutName {
+    font-size: 25px;
+    font-weight: bold;
+    color: brown;
+}
+
+.checkoutEmail {
+    font-size: 25px;
+    font-weight: bold;
+    color: brown;
+}
+
+.checkoutMovie {
+    font-size: 25px;
+    font-weight: bold;
+    color: brown;
+}
